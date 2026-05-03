@@ -1,10 +1,14 @@
 <div align="center">
 
-# 誅　伏　賜　死
+# ⚖ &nbsp; THE  COURT  OF  JUDGEMENT &nbsp; ⚖
 
-<sub>**THE  COURT  OF  JUDGEMENT**</sub>
+#### *Domain ・ Deadly Sentencing*
 
-<sup>*Domain ・ Deadly Sentencing*</sup>
+<sub>誅　伏　賜　死</sub>
+
+<br />
+
+***Put your plan on trial — before you write a single line of code.***
 
 <br />
 

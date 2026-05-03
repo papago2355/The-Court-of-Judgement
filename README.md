@@ -395,7 +395,7 @@ The idea is rooted in Hiromi Higuruma's domain expansion *Deadly Sentencing* —
 
 <div align="center">
 
-<img src="docs/inspiration/higuruma-retrial.png" alt="Hiromi Higuruma and Judgeman — &quot;We're having a retrial.&quot;" width="62%" /><br/>
+<img src="higuruma-retrial.png" alt="Hiromi Higuruma and Judgeman — &quot;We're having a retrial.&quot;" width="62%" /><br/>
 <sub><i>Hiromi Higuruma raises the gavel; Judgeman manifests behind him. <strong>Jujutsu Kaisen</strong>, Gege Akutami.</i></sub><br/>
 <sub><sup>Reproduced as reference credit. © Gege Akutami / Shueisha — all rights reserved to the original creator.</sup></sub>
 

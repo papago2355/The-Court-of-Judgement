@@ -8,9 +8,7 @@
 
 <br />
 
-<a href="https://github.com/papago2355/The-Court-of-Judgement">
-  <img alt="Repository" src="https://img.shields.io/badge/repo-The--Court--of--Judgement-0d0a07?style=for-the-badge&labelColor=0d0a07&color=c9a24a" />
-</a>
+<a href="https://github.com/papago2355/The-Court-of-Judgement"><img alt="Repository" src="https://img.shields.io/badge/repo-The--Court--of--Judgement-0d0a07?style=for-the-badge&labelColor=0d0a07&color=c9a24a" /></a>
 &nbsp;
 <img alt="License" src="https://img.shields.io/badge/license-MIT-0d0a07?style=for-the-badge&labelColor=0d0a07&color=c9a24a" />
 &nbsp;

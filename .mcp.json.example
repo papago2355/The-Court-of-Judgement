@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "judgement": {
+      "command": "python",
+      "args": ["-m", "judgement_mcp"]
+    }
+  }
+}

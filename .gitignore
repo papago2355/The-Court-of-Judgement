@@ -1,0 +1,54 @@
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+*.egg
+pip-log.txt
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ─── Node / Vite ─────────────────────────────────────────────────────────────
+web/node_modules/
+web/dist/
+web/.vite/
+web/*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ─── IDEs / OS ───────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Project-local ───────────────────────────────────────────────────────────
+# .mcp.json is the user's local config; .mcp.json.example is committed.
+.mcp.json
+.mcp.local.json
+
+# Claude Code per-user settings (interpreter paths, ad-hoc permissions, etc.)
+.claude/settings.local.json
+
+# Local memory store (auto-managed by Claude Code)
+memory/
+
+# Temporary trial transcripts
+*.trial.tmp
+
+# ─── Audio assets the user drops in locally (optional, not bundled) ─────────
+# Uncomment if you want users to provide their own audio per-machine.
+# mcp-server/judgement_mcp/web/sounds/*.mp3

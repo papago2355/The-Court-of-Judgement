@@ -1,0 +1,23 @@
+# Default: normalize line endings to LF in the repo, native on checkout.
+* text=auto eol=lf
+
+# Shell scripts: always LF (so they run on Linux/macOS even if checked out on Windows).
+*.sh   text eol=lf
+*.bash text eol=lf
+
+# PowerShell: CRLF.
+*.ps1 text eol=crlf
+
+# Binary assets — never normalize.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
